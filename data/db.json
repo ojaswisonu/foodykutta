@@ -1,0 +1,64 @@
+{
+  "products":[
+  {
+  "image":"assets/iphone.jpg",
+  "id" : 1,
+  "name ":"iphone",
+  " price" : 67000,
+  "publishdate" : "Tue Feb 14 2023 13:17:29 GMT+0530 (India Standard Time)",
+  " rating" : 4.7,
+  "code":"M-11",
+  "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, vitae porro! Quos nostrum illum accusantium illo laborum soluta aspernatur earum. Impedit iure corrupti omnis aut adipisci fugiat similique, quaerat quo!"
+  },
+  {
+  "image":"assets/tv.jpg",
+  "id" : 2,
+  "name ":"tv",
+  "price" : 78000,
+  "publishdate" : "Tue Feb 14 2023 13:17:29 GMT+0530 (India Standard Time)",
+  "rating" : 4,
+  "code":"M-11",
+  "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, vitae porro! Quos nostrum illum accusantium illo laborum soluta aspernatur earum. Impedit iure corrupti omnis aut adipisci fugiat similique, quaerat quo!"
+  },
+  {
+  "image":"assets/frig.png",
+  "id" : 3,
+  "name ":"fridge",
+  "price" : 50000.454,
+  "publishdate" : "Tue Feb 14 2023 13:17:29 GMT+0530 (India Standard Time)",
+  "rating" : 3,
+  "code":"M-11",
+  "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, vitae porro! Quos nostrum illum accusantium illo laborum soluta aspernatur earum. Impedit iure corrupti omnis aut adipisci fugiat similique, quaerat quo!"
+  },
+  {
+  "image":"assets/ac.jpg",
+  "id" : 4,
+  "name ":"ac",
+  " price" : 25000.222,
+  "publishdate" : "Tue Feb 14 2023 13:17:29 GMT+0530 (India Standard Time)",
+  " rating" : 3.5,
+  "code":"M-11",
+  "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, vitae porro! Quos nostrum illum accusantium illo laborum soluta aspernatur earum. Impedit iure corrupti omnis aut adipisci fugiat similique, quaerat quo!"
+  },
+  {
+  "image":"assets/vivo.jpg",
+  "id" : 5,
+  "name ":"vivo",
+  " price" : 25000,
+  "publishdate" : "Tue Feb 14 2023 13:17:29 GMT+0530 (India Standard Time)",
+  " rating" : 5,
+  "code":"M-11",
+  "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, vitae porro! Quos nostrum illum accusantium illo laborum soluta aspernatur earum. Impedit iure corrupti omnis aut adipisci fugiat similique, quaerat quo!"
+  },
+  {
+  "image":"assets/wc.jpg",
+  "id" : 6,
+  "name ":"wc",
+  " price" : 25000,
+  "publishdate" : "Tue Feb 14 2023 13:17:29 GMT+0530 (India Standard Time)",
+  " rating" : 2.5,
+  "code":"M-11",
+  "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, vitae porro! Quos nostrum illum accusantium illo laborum soluta aspernatur earum. Impedit iure corrupti omnis aut adipisci fugiat similique, quaerat quo!"
+  }]
+
+  }
